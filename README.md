@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eddie Plumley</h1>
 <h3 align="center">A passionate Machine Learning/Computer Science student</h3>
 
-- 🔭 I’m currently working on **RPi Robot Car**
+- 🔭 I’m currently working on **Grassroots Calendar**
 
-- 🌱 I’m currently learning **Linux**
+- 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **Python and Machine Learning**
 
