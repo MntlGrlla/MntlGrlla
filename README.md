@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Rendering Pipelines**
 
-- 📫 How to reach me **eplumley@outlook.com**
-
 - ⚡ Fun fact **I like to work on cars and hike in my free time!**
 
 <h3 align="left">Languages and Tools:</h3>
