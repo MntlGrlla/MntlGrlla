@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eddie Plumley</h1>
-<h3 align="center">A passionate Machine Learning/Computer Science student</h3>
+<h3 align="center">A passionate programmer </h3>
 
-- 🔭 I’m currently working on **Grassroots Calendar**
+- 🔭 I’m currently working on **SandboxSim and 2D Physics Visualization**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **OpenGL and Physics**
 
-- 💬 Ask me about **Python and Machine Learning**
+- 💬 Ask me about **Rendering Pipelines**
 
 - 📫 How to reach me **eplumley@outlook.com**
 
